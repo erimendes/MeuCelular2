@@ -80,7 +80,10 @@ public class MainActivity extends Activity  {
          }
       });
    }
-   
+   /* b3
+      Intent secondActivity = new Intent(this, SecondActivity.class);
+      startActivity(secondActivity);
+   */
    @Override
    public boolean onCreateOptionsMenu(Menu menu) {
       // Inflate the menu; this adds items to the action bar if it is present.
