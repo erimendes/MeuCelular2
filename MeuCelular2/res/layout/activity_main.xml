@@ -60,7 +60,7 @@
       android:layout_alignRight="@+id/editText"
       android:layout_alignEnd="@+id/editText"
       android:textColorHint="#ffff299f"
-      android:hint="Password" />
+      android:hint="Senha" />
       
    <TextView
       android:layout_width="wrap_content"
