@@ -1,3 +1,7 @@
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+
 public class SegundaActivity extends Activity {
     
 	Button btnSalvar, btnCancelar, btnNovo;
